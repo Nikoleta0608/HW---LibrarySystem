@@ -101,5 +101,7 @@ int sinceYear
 валидация на данни и сигурни операции
 управление на обекти в динамична система
 прилагане на const-коректност и статични членове
+```
 
+<img width="466" height="144" alt="image" src="https://github.com/user-attachments/assets/12f56433-dd7a-4d97-89c7-c86a4ee9bd0d" />
 
